@@ -12,7 +12,7 @@
             <div class="col">
                 <iframe title="vimeo-player" src="https://player.vimeo.com/video/528470787?h=6c714f6cfd" width="100%" height="360" frameborder="0" allowfullscreen></iframe>
             </div>
-            <div class="col d-flex align-items-center">
+            <div class="col d-flex align-items-center justify-content-center">
                 <div>
                     <h2>About RockStar Dance Studio</h2>
                     <p>
@@ -22,7 +22,7 @@
             </div>
         </div>
         <div class="row my-4">
-            <div class="col d-flex align-items-center">
+            <div class="col d-flex align-items-center justify-content-center">
                 <div>
                     <h2>RockStar FAQs</h2>
                     <p>
@@ -46,7 +46,7 @@
                     </a>
                 </p>
             </div>
-            <div class="col d-flex align-items-center">
+            <div class="col d-flex align-items-center justify-content-center">
                 <div>
                     <h2>Stretch & Flex Series</h2>
                 </div>
