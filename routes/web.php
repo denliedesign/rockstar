@@ -31,25 +31,25 @@ Route::get('/adult-classes', function () {
     return view('/adult-classes');
 });
 
-Route::get('/policies', function () {
-    return view('/policies');
-});
+//Route::get('/policies', function () {
+//    return view('/policies');
+//});
 
 Route::get('/show-team', function () {
     return view('/show-team');
 });
 
-Route::get('/showcase', function () {
-    return view('/showcase');
-});
+//Route::get('/showcase', function () {
+//    return view('/showcase');
+//});
 
 Route::get('/faqs', function () {
     return view('/faqs');
 });
 
-Route::get('/media', function () {
-    return view('/media');
-});
+//Route::get('/media', function () {
+//    return view('/media');
+//});
 
 Route::get('/summer', function () {
     return view('/summer');

@@ -60,6 +60,16 @@
                             </a>
                         </div>
                     </div>
+                    <div class="hover-blue mt-2">
+                        <p>Follow our Stretch & Flex series on our...</p>
+                        <a style="text-decoration: none; color: black;" href="https://www.youtube.com/channel/UC-ZLpraM5hGS-9JxIbhzAbw/videos" target="_blank">
+                            YouTube channel: RockStarDanceStudio.
+                        </a>
+                        <br><br>
+                        <a style="text-decoration: none; color: black;" href="https://www.instagram.com/stretchnflex_hq/" target="_blank">
+                            Instagram: stretchnflex_hg
+                        </a>
+                    </div>
                 </div>
                 <div class="col-sm-6 mt-3 ml-4">
                     <div style="width: 100%"><iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=510%20Lighthouse%20Avenue,%20Pacific%20Grove,%20California%2093950+(RockStar%20Dance%20Studio)&amp;t=&amp;z=17&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe></div>

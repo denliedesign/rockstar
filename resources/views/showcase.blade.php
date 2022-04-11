@@ -14,6 +14,7 @@
             </div>
             <div class="col-sm">
                 <img src="/images/showcase-rockstar.jpg" alt="rockstar logo" class="img-fluid">
+                <h2 class="text-center">Showcase</h2>
                 <p class="text-center">
                     Saturday June 4, 2022 at 4pm
                     <br><br>

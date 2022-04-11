@@ -44,6 +44,29 @@
         </div>
     </div>
 
+    <div class="bg-white">
+        <div class="container">
+            <div class="row my-3">
+                <div class="col-sm">
+                    <img src="/images/showcase-sponsor.png" alt="showcase sponsor" class="img-fluid">
+                </div>
+                <div class="col-sm">
+                    <img src="/images/showcase-rockstar.jpg" alt="rockstar logo" class="img-fluid">
+                    <h2 class="text-center">Showcase</h2>
+                    <p class="text-center">
+                        Saturday June 4, 2022 at 4pm
+                        <br><br>
+                        Carmel High School Performing Arts Center
+                        <br>3600 Ocean Ave
+                        <br>Carmel-By-The-Sea, CA 93923
+                        <br><br>
+                        <strong>Tickets go on sale May 1</strong>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <div class="bg-white pb-5" id="class-categories">
         <div class="container pb-5">
             <h2 class="text-center pt-5">Dance Classes</h2>
