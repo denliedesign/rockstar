@@ -37,7 +37,7 @@
                         </li>
                         <li class="list-group-item px-0 border-0">
                             <ion-icon name="mail"></ion-icon>
-                            <a href="mailto:rockstardancestudio@gmail.com" style="color: black; text-decoration: none;">rockstardancestudio@gmail.com</a>
+                            <a href="mailto:rockstardancestudio@gmail.com" style="color: black; text-decoration: none;">rockstarspecialist@gmail.com</a>
                         </li>
                     </ul>
                 </div>

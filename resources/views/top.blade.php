@@ -14,7 +14,7 @@
         </li>
         <li class="nav-item text-white-50 mx-4">
             <ion-icon name="mail"></ion-icon>
-            rockstardancestudio@gmail.com
+            rockstarspecialist@gmail.com
         </li>
     </ul>
 </div>
