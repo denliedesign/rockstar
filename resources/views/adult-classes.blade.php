@@ -21,7 +21,7 @@
             <br>
             Drop in Fee $25
         </p>
-        <a href="https://forms.gle/yzsRcrRexHG4rocF9" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-red btn-family mt-2">Register</div></a>
+        <a href="#" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-red btn-family mt-2">Register</div></a>
     </div>
 
 @endsection
