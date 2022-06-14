@@ -10,18 +10,18 @@
             {{--        <a href="https://kenosha-academy-performing-arts.studiosuite.io/m/website-studio-info-kit" target="_blank" class="d-none d-md-block btn-opacity"><div id="button-tablet" class="shadow btn btn-lg btn-kapa-teal primary-btn-pos btn-family">&#10097; Download Our Studio Info Kit</div></a>--}}
         </div>
 
-        {{--    @include('trial-modal')--}}
+            @include('trial-modal')
 
         <div class="container">
             <div id="next-steps">
                 <div class="row row-cols-1 row-cols-sm-1 row-cols-md-3 row-cols-lg-3 d-flex justify-content-center">
                     <div class="next-step mt-3 mt-md-0 shadow">
                         <p class="txt-red">Ready To Leap In?</p>
-                        <a href="#" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-red btn-family">&#10097; Enroll today!</div></a>
+                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSdgoIJIl_jb6iM6YY0i6bUFhJldnVn6rDKgg2e2K88eF8dFAQ/viewform" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-red btn-family">&#10097; Enroll today!</div></a>
                     </div>
                     <div class="next-step mt-3 mt-md-0 shadow">
                         <p class="txt-teal">Want To Give It A Try?</p>
-                        <a href="#" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-teal btn-family">&#10097; Schedule A Trial!</div></a>
+                        <a data-bs-toggle="modal" data-bs-target="#exampleModal" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-teal btn-family">&#10097; Schedule A Trial!</div></a>
                         {{--                    <div>--}}
                         {{--                        <button type="button" class="shadow btn btn-lg btn-blue btn-family btn-opacity" data-bs-toggle="modal" data-bs-target="#exampleModal">&#10097; Schedule A Trial!</button>--}}
                         {{--                    </div>--}}

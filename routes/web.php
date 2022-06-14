@@ -62,6 +62,9 @@ Route::get('/summer', function () {
 Route::resource('lessons', LessonController::class);
 Route::resource('contents', ContentController::class);
 
+Route::get('trial', 'App\Http\Controllers\TrialController@create')->name('trial.create');
+Route::post('trial', 'App\Http\Controllers\TrialController@store')->name('trial.store');
+
 
 Route::middleware(['auth:sanctum', 'verified'])->get('/dashboard', function () {
     return view('dashboard');
