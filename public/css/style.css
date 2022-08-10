@@ -3,7 +3,8 @@ body {
 }
 
 .gradient-splash {
-    background: linear-gradient(to right, #C60711, #C01A7F);
+    /*background: linear-gradient(to right, #C60711, #C01A7F);*/
+    background: #C60711;
 }
 
 #nav-21,
@@ -220,7 +221,7 @@ body {
 
 .banner {
     height: 100%;
-    background-image: url(/images/banner-beach-2.jpg);
+    background-image: url(/images/banner-black.jpg);
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;

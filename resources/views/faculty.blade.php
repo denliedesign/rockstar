@@ -34,18 +34,8 @@
                 <p class="text-center text-muted">Master Teacher</p>
             </div>
             <div>
-                <div class="staff-wrap"><div class="shadow rounded staff-ali staff-bg"></div></div>
-                <p class="text-center lead mb-0">Ali Ballash</p>
-                <p class="text-center text-muted">Master Teacher</p>
-            </div>
-            <div>
                 <div class="staff-wrap"><div class="shadow rounded staff-david staff-bg"></div></div>
                 <p class="text-center lead mb-0">David Kendallen</p>
-                <p class="text-center text-muted">Master Teacher</p>
-            </div>
-            <div>
-                <div class="staff-wrap"><div class="shadow rounded staff-serena staff-bg"></div></div>
-                <p class="text-center lead mb-0">Serena Cefalu-lopez</p>
                 <p class="text-center text-muted">Master Teacher</p>
             </div>
             <div>
@@ -57,6 +47,16 @@
                 <div class="staff-wrap shadow rounded"><div class="staff-alexa staff-bg"></div></div>
                 <p class="text-center lead mb-0">Ms. Alexa</p>
                 <p class="text-center text-muted">Junior Teacher</p>
+            </div>
+            <div>
+                <div class="staff-wrap"><div class="shadow rounded staff-ali staff-bg"></div></div>
+                <p class="text-center lead mb-0">Ali Ballash</p>
+                <p class="text-center text-muted">Guest Teacher</p>
+            </div>
+            <div>
+                <div class="staff-wrap"><div class="shadow rounded staff-serena staff-bg"></div></div>
+                <p class="text-center lead mb-0">Serena Cefalu-lopez</p>
+                <p class="text-center text-muted">Guest Teacher</p>
             </div>
         </div>
 

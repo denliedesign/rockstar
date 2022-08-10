@@ -20,15 +20,15 @@
                         <a href="https://docs.google.com/forms/d/e/1FAIpQLSdgoIJIl_jb6iM6YY0i6bUFhJldnVn6rDKgg2e2K88eF8dFAQ/viewform" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-red btn-family">&#10097; Enroll today!</div></a>
                     </div>
                     <div class="next-step mt-3 mt-md-0 shadow">
-                        <p class="txt-teal">Want To Give It A Try?</p>
-                        <a data-bs-toggle="modal" data-bs-target="#exampleModal" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-teal btn-family">&#10097; Schedule A Trial!</div></a>
+                        <p class="txt-red">Want To Give It A Try?</p>
+                        <a data-bs-toggle="modal" data-bs-target="#exampleModal" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-red btn-family">&#10097; Schedule A Trial!</div></a>
                         {{--                    <div>--}}
                         {{--                        <button type="button" class="shadow btn btn-lg btn-blue btn-family btn-opacity" data-bs-toggle="modal" data-bs-target="#exampleModal">&#10097; Schedule A Trial!</button>--}}
                         {{--                    </div>--}}
                     </div>
                     <div class="next-step mt-3 mt-md-0 shadow">
-                        <p class="txt-purple">Still Have Questions?</p>
-                        <a href="#footer" class="btn-opacity"><div class="shadow btn btn-lg btn-purple btn-family">&#10097; Contact Us!</div></a>
+                        <p class="txt-red">Still Have Questions?</p>
+                        <a href="#footer" class="btn-opacity"><div class="shadow btn btn-lg btn-red btn-family">&#10097; Contact Us!</div></a>
                     </div>
                 </div>
             </div>
@@ -36,39 +36,39 @@
 
         <div id="vision" class="text-center text-white">
             <div class="container">
-                <h2>We Have Built a Reputation for Excellence in Dance Instruction</h2>
-                <p>
-                    From your child’s first class to their graduation performance, RockStar has a class for everyone! We specialize in beginners of all ages and offer training through pre-professional levels. But, RockStar is More Than Just Great Dancing®! Our dancers go beyond technique to develop important life skills, learning to be respectful, confident and conscientious young people who share their gifts and talents with the community.
-                </p>
+{{--                <h2>We Have Built a Reputation for Excellence in Dance Instruction</h2>--}}
+{{--                <p>--}}
+{{--                    From your child’s first class to their graduation performance, RockStar has a class for everyone! We specialize in beginners of all ages and offer training through pre-professional levels. But, RockStar is More Than Just Great Dancing®! Our dancers go beyond technique to develop important life skills, learning to be respectful, confident and conscientious young people who share their gifts and talents with the community.--}}
+{{--                </p>--}}
             </div>
         </div>
     </div>
 
-    <div class="bg-white">
-        <div class="container">
-            <div class="row my-3">
-                <div class="col-sm">
-                    <img src="/images/showcase-sponsor.png" alt="showcase sponsor" class="img-fluid">
-                </div>
-                <div class="col-sm">
-                    <img src="/images/showcase-rockstar.jpg" alt="rockstar logo" class="img-fluid">
-                    <h2 class="text-center">Showcase</h2>
-                    <p class="text-center">
-                        Saturday June 4, 2022 at 4pm
-                        <br><br>
-                        Carmel High School Performing Arts Center
-                        <br>3600 Ocean Ave
-                        <br>Carmel-By-The-Sea, CA 93923
-                        <br><br>
-                        <strong>Tickets go on sale May 1</strong>
-                    </p>
-                </div>
-                <div class="col-sm d-flex align-items-center">
-                    <img src="/images/rockstar-coffee.jpeg" alt="coffee beans" class="img-fluid">
-                </div>
-            </div>
-        </div>
-    </div>
+{{--    <div class="bg-white">--}}
+{{--        <div class="container">--}}
+{{--            <div class="row my-3">--}}
+{{--                <div class="col-sm">--}}
+{{--                    <img src="/images/showcase-sponsor.png" alt="showcase sponsor" class="img-fluid">--}}
+{{--                </div>--}}
+{{--                <div class="col-sm">--}}
+{{--                    <img src="/images/showcase-rockstar.jpg" alt="rockstar logo" class="img-fluid">--}}
+{{--                    <h2 class="text-center">Showcase</h2>--}}
+{{--                    <p class="text-center">--}}
+{{--                        Saturday June 4, 2022 at 4pm--}}
+{{--                        <br><br>--}}
+{{--                        Carmel High School Performing Arts Center--}}
+{{--                        <br>3600 Ocean Ave--}}
+{{--                        <br>Carmel-By-The-Sea, CA 93923--}}
+{{--                        <br><br>--}}
+{{--                        <strong>Tickets go on sale May 1</strong>--}}
+{{--                    </p>--}}
+{{--                </div>--}}
+{{--                <div class="col-sm d-flex align-items-center">--}}
+{{--                    <img src="/images/rockstar-coffee.jpeg" alt="coffee beans" class="img-fluid">--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
+{{--    </div>--}}
 
     <div class="bg-white pb-5" id="class-categories">
         <div class="container pb-5">
@@ -81,11 +81,11 @@
                 </div>
                 <div class="col-sm mt-4">
                     <div style="height: 204px; overflow: hidden;"><img src="/images/4-5.jpg" alt="ages 1-4 dancers" class="img-fluid shadow rounded" style="max-height: 752px; object-fit: cover; object-position: -20% 0; width: 100%;"></div>
-                    <a href="/classes" class="btn-opacity"><div class="shadow btn btn-lg btn-teal btn-family mt-2" style="width: 100%;">Ages 4-5</div></a>
+                    <a href="/classes" class="btn-opacity"><div class="shadow btn btn-lg btn-red btn-family mt-2" style="width: 100%;">Ages 4-5</div></a>
                 </div>
                 <div class="col-sm mt-4">
                     <div style="height: 204px; overflow: hidden;"><img src="/images/6-8.jpg" alt="ages 1-4 dancers" class="img-fluid shadow rounded" style="max-height: 752px; object-fit: cover; object-position: -20% 0; width: 100%;"></div>
-                    <a href="/classes" class="btn-opacity"><div class="shadow btn btn-lg btn-purple btn-family mt-2" style="width: 100%;">Primary 6-8</div></a>
+                    <a href="/classes" class="btn-opacity"><div class="shadow btn btn-lg btn-red btn-family mt-2" style="width: 100%;">Primary 6-8</div></a>
                 </div>
                 <div class="col-sm mt-4">
                     <div style="height: 204px; overflow: hidden;"><img src="/images/9-11.jpg" alt="ages 1-4 dancers" class="img-fluid shadow rounded" style="max-height: 752px; object-fit: cover; object-position: -20% 0; width: 100%;"></div>
@@ -93,11 +93,11 @@
                 </div>
                 <div class="col-sm mt-4">
                     <div style="height: 204px; overflow: hidden;"><img src="/images/12-and-up.jpg" alt="ages 1-4 dancers" class="img-fluid shadow rounded" style="max-height: 752px; object-fit: cover; object-position: -20% 0; width: 100%;"></div>
-                    <a href="/classes" class="btn-opacity"><div class="shadow btn btn-lg btn-teal btn-family mt-2" style="width: 100%;">Teen 12 & up</div></a>
+                    <a href="/classes" class="btn-opacity"><div class="shadow btn btn-lg btn-red btn-family mt-2" style="width: 100%;">Teen 12 & up</div></a>
                 </div>
                 <div class="col-sm mt-4">
                     <div style="height: 204px; overflow: hidden;"><img src="/images/15-and-up.jpg" alt="ages 1-4 dancers" class="img-fluid shadow rounded" style="max-height: 752px; object-fit: cover; object-position: -20% 0; width: 100%;"></div>
-                    <a href="/classes" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-purple btn-family mt-2" style="width: 100%;">Seniors 15 & up</div></a>
+                    <a href="/classes" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-red btn-family mt-2" style="width: 100%;">Seniors 15 & up</div></a>
                 </div>
                 <div class="col-sm mt-4">
                     <div style="height: 204px; overflow: hidden;"><img src="/images/adult.jpg" alt="ages 1-4 dancers" class="img-fluid shadow rounded" style="max-height: 752px; object-fit: cover; object-position: -20% 0; width: 100%;"></div>
@@ -105,7 +105,7 @@
                 </div>
                 <div class="col-sm mt-4">
                     <div style="height: 204px; overflow: hidden;"><img src="/images/show-team-1.jpg" alt="ages 1-4 dancers" class="img-fluid shadow rounded" style="max-height: 752px; object-fit: cover; object-position: -20% 0; width: 100%;"></div>
-                    <a href="/show-team" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-teal btn-family mt-2" style="width: 100%;">Show Team</div></a>
+                    <a href="/show-team" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-red btn-family mt-2" style="width: 100%;">Show Team</div></a>
                 </div>
             </div>
         </div>
@@ -117,7 +117,7 @@
         <div class="row secondary-txt-pos text-white text-center">
             <div class="col-sm">
                 <p class="my-0 text-capitalize">
-                    <ion-icon name="heart"></ion-icon> Safer Studio
+                    <ion-icon name="heart"></ion-icon> COVID Protocols
                     <br><ion-icon name="heart"></ion-icon> Tech Enabled
                     <br><ion-icon name="heart"></ion-icon> Secured Facility
                 </p>
@@ -125,7 +125,7 @@
             <div class="col-sm">
                 <p class="my-0">
                     <ion-icon name="heart"></ion-icon> Written Curriculum
-                    <br><ion-icon name="heart"></ion-icon> Full-Time Admin
+{{--                    <br><ion-icon name="heart"></ion-icon> Full-Time Admin--}}
                     <br><ion-icon name="heart"></ion-icon> YPAD Certified
                 </p>
             </div>
@@ -164,34 +164,36 @@
         </div>
     </div>
 
-    <div id="mtjgd-bg" class="text-white">
-        <div class="color-filter-black"></div>
-        <h2 class="secondary-txt">We're About More Than Just Great Dancing™</h2>
-        <div>
-            <div class="row tertiary-txt-pos">
-                <div class="col-sm my-4">
-                    “We don’t teach kids to make great dancers, we teach dance to make great kids.”
-                    <br>
-                    <em>-Misty Lown</em>
-                </div>
-                <div class="col-sm">
-                    <img src="/images/mtjgd-logo.png" alt="more than just great dancing logo" class="img-fluid">
-                </div>
-            </div>
-        </div>
-    </div>
+{{--    <div id="mtjgd-bg" class="text-white">--}}
+{{--        <div class="color-filter-black"></div>--}}
+{{--        <h2 class="secondary-txt">We're About More Than Just Great Dancing™</h2>--}}
+{{--        <div>--}}
+{{--            <div class="row tertiary-txt-pos">--}}
+{{--                <div class="col-sm my-4">--}}
+{{--                    “We don’t teach kids to make great dancers, we teach dance to make great kids.”--}}
+{{--                    <br>--}}
+{{--                    <em>-Misty Lown</em>--}}
+{{--                </div>--}}
+{{--                <div class="col-sm">--}}
+{{--                    <img src="/images/mtjgd-logo.png" alt="more than just great dancing logo" class="img-fluid">--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
+{{--    </div>--}}
 
     <div id="safer-youth" class="bg-white py-5">
         <div class="container">
             <div class="row">
-                <div class="col-sm">
-                    <div class="d-flex justify-content-center">
-                        <img src="/images/safer-studio-logo.png" alt="safer studio logo" class="img-fluid" style="width: 100%; height: 100%; filter: invert(1);">
+                <div class="col-sm d-flex align-items-center">
+                    <div>
+                        <div class="d-flex justify-content-center">
+                            <img src="/images/logo-dac.png" alt="dac logo" class="img-fluid" style="width: 100%; height: 100%;">
+                        </div>
+                        <h2 class="text-center mt-4">Dancers Against Cancer</h2>
+                        <p>
+                            An alliance in the dance community that provides financial support and inspiration to dance educators, choreographers, dancers and their families who have been impacted by cancer.
+                        </p>
                     </div>
-                    <h2 class="text-center">RockStar is a Safer Studio™</h2>
-                    <p>
-                        RockStar focuses on a hierarchy of measures to create a Safer Studio™ environment beginning with requiring students and staff who are ill to stay home, followed by frequent hand cleaning and good hygiene practices, amplified cleaning, and making curricular and facility adaptations to minimizing contact and mingling.
-                    </p>
                 </div>
                 <div class="col-sm">
                     <div class="d-flex justify-content-center">

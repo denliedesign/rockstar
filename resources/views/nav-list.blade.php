@@ -20,9 +20,9 @@
 {{--    <li class="nav-item mx-2">--}}
 {{--        <a class="nav-link" href="/showcase">showcase</a>--}}
 {{--    </li>--}}
-    <li class="nav-item mx-2">
-        <a class="nav-link" href="/summer">summer</a>
-    </li>
+{{--    <li class="nav-item mx-2">--}}
+{{--        <a class="nav-link" href="/summer">summer</a>--}}
+{{--    </li>--}}
     <li class="nav-item mx-2">
         <a class="nav-link" href="/faqs">faqs</a>
     </li>

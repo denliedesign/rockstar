@@ -8,12 +8,12 @@
                 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdgoIJIl_jb6iM6YY0i6bUFhJldnVn6rDKgg2e2K88eF8dFAQ/viewform" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-red btn-family">&#10097; Enroll today!</div></a>
             </div>
             <div class="next-step mt-3 mt-md-0 shadow">
-                <p class="txt-teal">Want To Give It A Try?</p>
-                <a data-bs-toggle="modal" data-bs-target="#exampleModal" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-teal btn-family">&#10097; Schedule A Trial!</div></a>
+                <p class="txt-red">Want To Give It A Try?</p>
+                <a data-bs-toggle="modal" data-bs-target="#exampleModal" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-red btn-family">&#10097; Schedule A Trial!</div></a>
             </div>
             <div class="next-step mt-3 mt-md-0 shadow">
-                <p class="txt-purple">Still Have Questions?</p>
-                <a href="#footer" class="btn-opacity"><div class="shadow btn btn-lg btn-purple btn-family">&#10097; Contact Us!</div></a>
+                <p class="txt-red">Still Have Questions?</p>
+                <a href="#footer" class="btn-opacity"><div class="shadow btn btn-lg btn-red btn-family">&#10097; Contact Us!</div></a>
             </div>
         </div>
     </div>
@@ -39,7 +39,7 @@
                         </li>
                         <li class="list-group-item px-0 border-0">
                             <ion-icon name="mail"></ion-icon>
-                            <a href="mailto:rockstardancestudio@gmail.com" style="color: black; text-decoration: none;">rockstarspecialist@gmail.com</a>
+                            <a href="mailto:rockstardancestudio2@gmail.com" style="color: black; text-decoration: none;">rockstardancestudio2@gmail.com</a>
                         </li>
                     </ul>
                 </div>
