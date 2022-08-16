@@ -6,7 +6,13 @@
     </div>
 
     <div class="container my-5">
-        <div class="row">
+        <div class="d-flex justify-content-center">
+            <div>
+                <a href="/images/season-13-class-schedule.pdf" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-red btn-family m-4">Season 13 Class Schedule</div></a>
+                <a href="/images/season-13-quick-reference.pdf" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-red btn-family m-4">Season 13 Quick Reference</div></a>
+            </div>
+        </div>
+        <div class="row mt-4">
             <div class="col-sm">
                 <h1 class="text-center">Policies</h1>
 
