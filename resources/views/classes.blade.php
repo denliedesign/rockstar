@@ -7,6 +7,9 @@
 
     <div class="container my-5">
         <h1 class="text-center">Classes</h1>
+        <div class="d-flex justify-content-center my-3">
+            <img src="/images/season-13-class-schedule.jpg" alt="" class="img-fluid">
+        </div>
         @can('update', \App\Lesson::class)
             <p class="text-center"><a href="/lessons/create">Create New Lesson</a></p>
         @endcan
