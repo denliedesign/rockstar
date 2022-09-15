@@ -7,8 +7,9 @@
 
     <div class="container my-5">
         <h1 class="text-center">Classes</h1>
-        <div class="d-flex justify-content-center my-3">
-            <img src="/images/season-13-class-schedule.jpg" alt="" class="img-fluid">
+        <div class="row my-3">
+            <div class="col-sm my-3 text-center"><a href="/images/schedule-22-tiny.pdf" target="_blank" class="mx-3">View Tiny Dancer PDF</a><img src="/images/schedule-22-tiny.jpg" alt="" class="img-fluid"></div>
+            <div class="col-sm my-3 text-center"><a href="/images/schedule-22.pdf" target="_blank" class="mx-3">View Studio Schedule PDF</a><img src="/images/schedule-22.jpg" alt="" class="img-fluid"></div>
         </div>
 {{--        @can('update', \App\Lesson::class)--}}
 {{--            <p class="text-center"><a href="/lessons/create">Create New Lesson</a></p>--}}
