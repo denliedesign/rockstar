@@ -39,6 +39,11 @@
                 <p class="text-center text-muted">Master Teacher</p>
             </div>
             <div>
+                <div class="staff-wrap"><div class="shadow rounded staff-danae staff-bg"></div></div>
+                <p class="text-center lead mb-0">Danae Mouton</p>
+                <p class="text-center text-muted">Master Teacher</p>
+            </div>
+            <div>
                 <div class="staff-wrap"><div class="shadow rounded staff-kylin staff-bg"></div></div>
                 <p class="text-center lead mb-0">Ms. Kylin</p>
                 <p class="text-center text-muted">Junior Teacher</p>
@@ -57,6 +62,16 @@
                 <div class="staff-wrap"><div class="shadow rounded staff-serena staff-bg"></div></div>
                 <p class="text-center lead mb-0">Serena Cefalu-lopez</p>
                 <p class="text-center text-muted">Guest Teacher</p>
+            </div>
+            <div>
+                <div class="staff-wrap"><div class="shadow rounded staff-melissa staff-bg"></div></div>
+                <p class="text-center lead mb-0">Melissa Puita</p>
+                <p class="text-center text-muted">Operations Manager</p>
+            </div>
+            <div>
+                <div class="staff-wrap"><div class="shadow rounded staff-amy staff-bg"></div></div>
+                <p class="text-center lead mb-0">Amy Satterfield</p>
+                <p class="text-center text-muted">Social Media Specialist</p>
             </div>
         </div>
 
