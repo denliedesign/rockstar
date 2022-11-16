@@ -70,6 +70,14 @@
 {{--        </div>--}}
 {{--    </div>--}}
 
+    <div class="bg-white py-5">
+        <div class="container">
+            <div class="d-flex justify-content-center">
+                <img src="/images/holiday-show.jpg" alt="img-fluid" class="shadow rounded" style="width: 80%; height: auto;">
+            </div>
+        </div>
+    </div>
+
     <div class="bg-white pb-5" id="class-categories">
         <div class="container pb-5">
             <h2 class="text-center pt-5">Dance Classes</h2>
@@ -139,30 +147,30 @@
         </div>
     </div>
 
-    <div class="bg-white py-5">
-        <div class="container">
-            <div class="row">
-                <div class="col-sm d-flex align-items-center">
-                    <div>
-                        <div class="d-flex justify-content-center mb-0">
-                            <img src="/images/logo-acro.png" alt="program logo" class="img-fluid">
-                        </div>
-                        <p class="mb-5">
-                            Acrobatic Arts is a professional curriculum for acrobatic dance.
-                            <br><br>This program is designed to promote excellence in flexibility, strength, balance, limbering, tumbling, basic contortion, and partner/group stunting for dancers.
-                            <br><br>AcroDance is the beautiful fusion of the artistic motion of dance and the athleticism of acrobatics. AcroDance is not the same as gymnastics.
-                            <br><br>An AcroDancer must complete all of the skills on the hard stage without the advantage of a sprung floor while incorporating musical expression, extension and control. A sprung floor allows a gymnast to complete much more difficult tumbling skills when compared to what is recommended in AcroDance.
-                        </p>
-                    </div>
-                </div>
-                <div class="col-sm d-flex align-items-center justify-content-center">
-                    <div class="">
-                        <img src="/images/acrobatic-arts.jpg" alt="program photo" class="img-fluid rounded shadow">
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+{{--    <div class="bg-white py-5">--}}
+{{--        <div class="container">--}}
+{{--            <div class="row">--}}
+{{--                <div class="col-sm d-flex align-items-center">--}}
+{{--                    <div>--}}
+{{--                        <div class="d-flex justify-content-center mb-0">--}}
+{{--                            <img src="/images/logo-acro.png" alt="program logo" class="img-fluid">--}}
+{{--                        </div>--}}
+{{--                        <p class="mb-5">--}}
+{{--                            Acrobatic Arts is a professional curriculum for acrobatic dance.--}}
+{{--                            <br><br>This program is designed to promote excellence in flexibility, strength, balance, limbering, tumbling, basic contortion, and partner/group stunting for dancers.--}}
+{{--                            <br><br>AcroDance is the beautiful fusion of the artistic motion of dance and the athleticism of acrobatics. AcroDance is not the same as gymnastics.--}}
+{{--                            <br><br>An AcroDancer must complete all of the skills on the hard stage without the advantage of a sprung floor while incorporating musical expression, extension and control. A sprung floor allows a gymnast to complete much more difficult tumbling skills when compared to what is recommended in AcroDance.--}}
+{{--                        </p>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--                <div class="col-sm d-flex align-items-center justify-content-center">--}}
+{{--                    <div class="">--}}
+{{--                        <img src="/images/acrobatic-arts.jpg" alt="program photo" class="img-fluid rounded shadow">--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
+{{--    </div>--}}
 
 {{--    <div id="mtjgd-bg" class="text-white">--}}
 {{--        <div class="color-filter-black"></div>--}}
@@ -184,10 +192,12 @@
     <div id="safer-youth" class="bg-white py-5">
         <div class="container">
             <div class="row">
-                <div class="col-sm d-flex align-items-center">
+                <div class="col-sm">
                     <div>
                         <div class="d-flex justify-content-center">
-                            <img src="/images/logo-dac.png" alt="dac logo" class="img-fluid" style="width: 100%; height: 100%;">
+                            <a href="https://imadanceragainstcancer.org" target="_blank">
+                                <img src="/images/logo-dac.png" alt="dac logo" class="img-fluid" style="height: 270px; width: auto;">
+                            </a>
                         </div>
                         <h2 class="text-center mt-4">Dancers Against Cancer</h2>
                         <p>
@@ -197,17 +207,13 @@
                 </div>
                 <div class="col-sm">
                     <div class="d-flex justify-content-center">
-                        <img src="/images/ypad-badge.png" alt="ypad logo" class="img-fluid" style="max-height: 354.04px;">
+                        <a href="https://neamacares.org" target="_blank">
+                            <img src="/images/logo-neama.png" alt="neama logo" class="img-fluid" style="height: 270px; width: auto;">
+                        </a>
                     </div>
-                    <h2 class="text-center">RockStar is Youth Protection Advocates in Dance®  Certified!</h2>
+                    <h2 class="text-center mt-4">NEAMA</h2>
                     <p>
-                        <span class="txt-pink"><ion-icon name="heart"></ion-icon></span> Background checked and CPR certified teachers
-                        <br><span class="txt-pink"><ion-icon name="heart"></ion-icon></span> Safer Studio™ Policy
-                        <br><span class="txt-pink"><ion-icon name="heart"></ion-icon></span> Teacher training & proven curriculum
-                        <br><span class="txt-pink"><ion-icon name="heart"></ion-icon></span> A focus on safety & wellness for every student
-                        <br><span class="txt-pink"><ion-icon name="heart"></ion-icon></span> Secured facilities
-                        <br><span class="txt-pink"><ion-icon name="heart"></ion-icon></span> Viewing windows
-                        <br><span class="txt-pink"><ion-icon name="heart"></ion-icon></span> Social media safety practices
+                        NEAMA (Nonprofit Education and Advocacy for the Movement Arts)™️ supports transformative change towards safer and healthier practices in the movement arts. Their evidence-based education and advocacy works to identify, address, and prevent abuse in the industry. NEAMA is centered on safeguarding and supporting the physical, psychological, and sexual wellness of youth and adults, emphasizing the importance of the whole community, while never forgetting the inherent value of the individual.
                     </p>
                 </div>
             </div>
