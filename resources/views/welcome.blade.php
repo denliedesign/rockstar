@@ -73,7 +73,9 @@
     <div class="bg-white py-5">
         <div class="container">
             <div class="d-flex justify-content-center">
-                <img src="/images/holiday-show.jpg" alt="img-fluid" class="shadow rounded" style="width: 80%; height: auto;">
+                <a href="http://www.therockstarmovement.com/" target="_blank">
+                    <img src="/images/logo-rockstar-movement.jpg" alt="" class="shadow rounded img-fluid">
+                </a>
             </div>
         </div>
     </div>
