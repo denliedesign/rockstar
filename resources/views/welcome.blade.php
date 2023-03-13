@@ -17,18 +17,15 @@
                 <div class="row row-cols-1 row-cols-sm-1 row-cols-md-3 row-cols-lg-3 d-flex justify-content-center">
                     <div class="next-step mt-3 mt-md-0 shadow">
                         <p class="txt-red">Ready To Leap In?</p>
-                        <a href="https://docs.google.com/forms/d/e/1FAIpQLScjxugJ8NYKWlKSpRPg4KWc4LSBeaY-dNuffMlYmhM8uWf8Ew/viewform" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-red btn-family">&#10097; Enroll today!</div></a>
+                        <a href="https://docs.google.com/forms/d/e/1FAIpQLScjxugJ8NYKWlKSpRPg4KWc4LSBeaY-dNuffMlYmhM8uWf8Ew/viewform" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-red btn-family">Enroll/Schedule a Trial</div></a>
                     </div>
-                    <div class="next-step mt-3 mt-md-0 shadow">
-                        <p class="txt-red">Want To Give It A Try?</p>
-                        <a data-bs-toggle="modal" data-bs-target="#exampleModal" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-red btn-family">&#10097; Schedule A Trial!</div></a>
-                        {{--                    <div>--}}
-                        {{--                        <button type="button" class="shadow btn btn-lg btn-blue btn-family btn-opacity" data-bs-toggle="modal" data-bs-target="#exampleModal">&#10097; Schedule A Trial!</button>--}}
-                        {{--                    </div>--}}
-                    </div>
+{{--                    <div class="next-step mt-3 mt-md-0 shadow">--}}
+{{--                        <p class="txt-red">Want To Give It A Try?</p>--}}
+{{--                        <a data-bs-toggle="modal" data-bs-target="#exampleModal" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-red btn-family">&#10097; Schedule A Trial!</div></a>--}}
+{{--                    </div>--}}
                     <div class="next-step mt-3 mt-md-0 shadow">
                         <p class="txt-red">Still Have Questions?</p>
-                        <a href="#footer" class="btn-opacity"><div class="shadow btn btn-lg btn-red btn-family">&#10097; Contact Us!</div></a>
+                        <a href="#footer" class="btn-opacity"><div class="shadow btn btn-lg btn-red btn-family">Contact Us!</div></a>
                     </div>
                 </div>
             </div>
@@ -83,6 +80,9 @@
     <div class="bg-white pb-5" id="class-categories">
         <div class="container pb-5">
             <h2 class="text-center pt-5">Dance Classes</h2>
+            <p class="text-center" style="font-size: 1.33em;">
+                <strong>Registration for this current schedule is closing on March 18</strong>
+            </p>
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-4">
                 <div class="col-sm mt-4">
                     <div style="height: 204px; overflow: hidden;"><img src="/images/class-ages-2-3.jpeg" alt="ages 1-4 dancers" class="img-fluid shadow rounded" style="height: 100%; object-fit: cover; object-position: 30% 0; width: 100%;"></div>
