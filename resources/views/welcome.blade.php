@@ -69,10 +69,25 @@
 
     <div class="bg-white py-5">
         <div class="container">
-            <div class="d-flex justify-content-center">
+            <div class="my-2">
                 <a href="http://www.therockstarmovement.com/" target="_blank">
                     <img src="/images/logo-rockstar-movement.jpg" alt="" class="shadow rounded img-fluid">
                 </a>
+            </div>
+            <div>
+                <img src="/images/23-showcase.png" alt="" class="img-fluid rounded shadow">
+            </div>
+            <div class="row">
+                <div class="col-sm my-2">
+                    <div class="d-flex align-items-center" style="height: 100%;">
+                        <img src="/images/23-camp-rock.jpg" alt="" class="img-fluid rounded shadow">
+                    </div>
+                </div>
+                <div class="col-sm my-2">
+                    <div class="d-flex align-items-center" style="height: 100%;">
+                        <img src="/images/23-hip-hop.jpg" alt="" class="img-fluid rounded shadow">
+                    </div>
+                </div>
             </div>
         </div>
     </div>

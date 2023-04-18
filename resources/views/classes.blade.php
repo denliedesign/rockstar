@@ -7,13 +7,22 @@
 
     <div class="container my-5">
         <h1 class="text-center">Classes</h1>
-        <p class="text-center" style="font-size: 1.33em;">
-            <strong>Registration for this current schedule is closing on March 18</strong>
-        </p>
-        <div class="row my-3">
-            <div class="col-sm my-3 text-center"><br><img src="/images/tiny-dancer-classes.png" alt="" class="img-fluid"></div>
-            <div class="col-sm my-3 text-center"><a href="/images/schedule-22.pdf" target="_blank" class="mx-3">View Studio Schedule PDF</a><img src="/images/schedule-22.jpg" alt="" class="img-fluid"></div>
+        <div class="row">
+            <div class="col-sm my-2"><img src="/images/23-summer.jpg" alt="summer schedule" class="img-fluid shadow rounded"></div>
+            <div class="col-sm my-2"><img src="/images/23-camp-rock.jpg" alt="camp rock schedule" class="img-fluid shadow rounded"></div>
         </div>
+
+{{--        <p class="text-center" style="font-size: 1.33em;">--}}
+{{--            <strong>Registration for this current schedule is closing on March 18</strong>--}}
+{{--        </p>--}}
+{{--        <div class="row my-3">--}}
+{{--            <div class="col-sm my-3 text-center"><br><img src="/images/tiny-dancer-classes.png" alt="" class="img-fluid"></div>--}}
+{{--            <div class="col-sm my-3 text-center"><a href="/images/schedule-22.pdf" target="_blank" class="mx-3">View Studio Schedule PDF</a><img src="/images/schedule-22.jpg" alt="" class="img-fluid"></div>--}}
+{{--        </div>--}}
+
+
+
+
 {{--        @can('update', \App\Lesson::class)--}}
 {{--            <p class="text-center"><a href="/lessons/create">Create New Lesson</a></p>--}}
 {{--        @endcan--}}

@@ -8,7 +8,7 @@
     <div class="container my-5">
         <h1 class="text-center">Show Team</h1>
 
-        <img src="/images/show-team.jpg" alt="show team" class="rounded shadow img-fluid my-4">
+        <img src="/images/23-team.jpg" alt="show team" class="rounded shadow img-fluid my-4">
 
         @can('update', \App\Content::class)
             <div class="my-5">
