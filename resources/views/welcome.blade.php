@@ -74,8 +74,13 @@
                     <img src="/images/logo-rockstar-movement.jpg" alt="" class="shadow rounded img-fluid">
                 </a>
             </div>
-            <div>
-                <img src="/images/23-showcase.png" alt="" class="img-fluid rounded shadow">
+            <div class="row">
+                <div class="col-sm my-2 d-flex align-items-center">
+                    <img src="/images/23-showcase.png" alt="" class="img-fluid rounded shadow">
+                </div>
+                <div class="col-sm my-2">
+                    <img src="/images/23-sponsor.jpg" alt="" class="img-fluid rounded shadow">
+                </div>
             </div>
             <div class="row">
                 <div class="col-sm my-2">
