@@ -8,8 +8,18 @@
     <div class="container my-5">
         <h1 class="text-center">Classes</h1>
         <div class="row">
-            <div class="col-sm my-2"><img src="/images/23-summer.jpg" alt="summer schedule" class="img-fluid shadow rounded"></div>
-            <div class="col-sm my-2"><img src="/images/23-camp-rock.jpg" alt="camp rock schedule" class="img-fluid shadow rounded"></div>
+            <div class="col-sm my-2">
+                <img src="/images/23-summer.jpg" alt="summer schedule" class="img-fluid shadow rounded">
+                <div class="d-flex justify-content-center mt-1 mb-3">
+                    <a href="https://forms.gle/6AAHd1kUvuBPgwsw5" class="btn-opacity"><div class="shadow btn btn-lg btn-red btn-family">Register</div></a>
+                </div>
+            </div>
+            <div class="col-sm my-2">
+                <img src="/images/23-camp-rock.jpg" alt="camp rock schedule" class="img-fluid shadow rounded">
+                <div class="d-flex justify-content-center mt-1 mb-3">
+                    <a href="https://forms.gle/tq2z861EUVpAdKScA" class="btn-opacity"><div class="shadow btn btn-lg btn-red btn-family">Register</div></a>
+                </div>
+            </div>
         </div>
 
 {{--        <p class="text-center" style="font-size: 1.33em;">--}}
