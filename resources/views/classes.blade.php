@@ -11,13 +11,13 @@
             <div class="col-sm my-2">
                 <img src="/images/23-summer.jpg" alt="summer schedule" class="img-fluid shadow rounded">
                 <div class="d-flex justify-content-center mt-1 mb-3">
-                    <a href="https://forms.gle/6AAHd1kUvuBPgwsw5" class="btn-opacity"><div class="shadow btn btn-lg btn-red btn-family">Register</div></a>
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLScDg4GWYkui47RWzUNAq6nxzmmuaPrXYu017YnuSZRULGhHog/viewform?pli=1" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-red btn-family">Register</div></a>
                 </div>
             </div>
             <div class="col-sm my-2">
                 <img src="/images/23-camp-rock.jpg" alt="camp rock schedule" class="img-fluid shadow rounded">
                 <div class="d-flex justify-content-center mt-1 mb-3">
-                    <a href="https://forms.gle/tq2z861EUVpAdKScA" class="btn-opacity"><div class="shadow btn btn-lg btn-red btn-family">Register</div></a>
+                    <a href="https://forms.gle/tq2z861EUVpAdKScA" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-red btn-family">Register</div></a>
                 </div>
             </div>
         </div>
