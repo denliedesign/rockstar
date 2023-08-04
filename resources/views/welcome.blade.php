@@ -17,7 +17,7 @@
                 <div class="row row-cols-1 row-cols-sm-1 row-cols-md-3 row-cols-lg-3 d-flex justify-content-center">
                     <div class="next-step mt-3 mt-md-0 shadow">
                         <p class="txt-red">Ready To Leap In?</p>
-                        <a href="https://docs.google.com/forms/d/e/1FAIpQLScjxugJ8NYKWlKSpRPg4KWc4LSBeaY-dNuffMlYmhM8uWf8Ew/viewform" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-red btn-family">Enroll/Schedule a Trial</div></a>
+                        <a href="https://forms.gle/WmGb9N4iCSMBhmUd7" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-red btn-family">Enroll/Schedule a Trial</div></a>
                     </div>
 {{--                    <div class="next-step mt-3 mt-md-0 shadow">--}}
 {{--                        <p class="txt-red">Want To Give It A Try?</p>--}}
@@ -74,23 +74,23 @@
                     <img src="/images/logo-rockstar-movement.jpg" alt="" class="shadow rounded img-fluid">
                 </a>
             </div>
+{{--            <div class="row">--}}
+{{--                <div class="col-sm my-2 d-flex align-items-center">--}}
+{{--                    <img src="/images/23-showcase.png" alt="" class="img-fluid rounded shadow">--}}
+{{--                </div>--}}
+{{--                <div class="col-sm my-2">--}}
+{{--                    <img src="/images/23-sponsor.jpg" alt="" class="img-fluid rounded shadow">--}}
+{{--                </div>--}}
+{{--            </div>--}}
             <div class="row">
-                <div class="col-sm my-2 d-flex align-items-center">
-                    <img src="/images/23-showcase.png" alt="" class="img-fluid rounded shadow">
-                </div>
-                <div class="col-sm my-2">
-                    <img src="/images/23-sponsor.jpg" alt="" class="img-fluid rounded shadow">
-                </div>
-            </div>
-            <div class="row">
+{{--                <div class="col-sm my-2">--}}
+{{--                    <div class="d-flex align-items-center" style="height: 100%;">--}}
+{{--                        <img src="/images/23-camp-rock.jpg" alt="" class="img-fluid rounded shadow">--}}
+{{--                    </div>--}}
+{{--                </div>--}}
                 <div class="col-sm my-2">
                     <div class="d-flex align-items-center" style="height: 100%;">
-                        <img src="/images/23-camp-rock.jpg" alt="" class="img-fluid rounded shadow">
-                    </div>
-                </div>
-                <div class="col-sm my-2">
-                    <div class="d-flex align-items-center" style="height: 100%;">
-                        <img src="/images/23-hip-hop.jpg" alt="" class="img-fluid rounded shadow">
+                        <img src="/images/23-postcard.jpg" alt="" class="img-fluid rounded shadow">
                     </div>
                 </div>
             </div>

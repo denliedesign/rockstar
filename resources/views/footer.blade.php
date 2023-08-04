@@ -5,7 +5,7 @@
         <div id="next-steps-copy" class="row row-cols-1 row-cols-sm-1 row-cols-md-3 row-cols-lg-3 d-flex justify-content-center bg-white pt-5 pb-3">
             <div class="next-step mt-3 mt-md-0 shadow">
                 <p class="txt-red">Ready To Leap In?</p>
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLScjxugJ8NYKWlKSpRPg4KWc4LSBeaY-dNuffMlYmhM8uWf8Ew/viewform" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-red btn-family">Enroll/Schedule a Trial</div></a>
+                <a href="https://forms.gle/WmGb9N4iCSMBhmUd7" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-red btn-family">Enroll/Schedule a Trial</div></a>
             </div>
 {{--            <div class="next-step mt-3 mt-md-0 shadow">--}}
 {{--                <p class="txt-red">Want To Give It A Try?</p>--}}

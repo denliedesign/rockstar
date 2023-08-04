@@ -7,20 +7,24 @@
 
     <div class="container my-5">
         <h1 class="text-center">Classes</h1>
-        <div class="row">
-            <div class="col-sm my-2">
-                <img src="/images/23-summer.jpg" alt="summer schedule" class="img-fluid shadow rounded">
-                <div class="d-flex justify-content-center mt-1 mb-3">
-                    <a href="https://docs.google.com/forms/d/e/1FAIpQLScDg4GWYkui47RWzUNAq6nxzmmuaPrXYu017YnuSZRULGhHog/viewform?pli=1" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-red btn-family">Register</div></a>
-                </div>
-            </div>
-            <div class="col-sm my-2">
-                <img src="/images/23-camp-rock.jpg" alt="camp rock schedule" class="img-fluid shadow rounded">
-                <div class="d-flex justify-content-center mt-1 mb-3">
-                    <a href="https://forms.gle/tq2z861EUVpAdKScA" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-red btn-family">Register</div></a>
-                </div>
-            </div>
-        </div>
+                        <div class="d-flex justify-content-center mt-1 mb-3">
+                            <a href="https://forms.gle/WmGb9N4iCSMBhmUd7" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-red btn-family">Register</div></a>
+                        </div>
+        <img src="/images/23-schedule.jpg" alt="schedule" class="img-fluid">
+{{--        <div class="row">--}}
+{{--            <div class="col-sm my-2">--}}
+{{--                <img src="/images/23-summer.jpg" alt="summer schedule" class="img-fluid shadow rounded">--}}
+{{--                <div class="d-flex justify-content-center mt-1 mb-3">--}}
+{{--                    <a href="https://docs.google.com/forms/d/e/1FAIpQLScDg4GWYkui47RWzUNAq6nxzmmuaPrXYu017YnuSZRULGhHog/viewform?pli=1" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-red btn-family">Register</div></a>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--            <div class="col-sm my-2">--}}
+{{--                <img src="/images/23-camp-rock.jpg" alt="camp rock schedule" class="img-fluid shadow rounded">--}}
+{{--                <div class="d-flex justify-content-center mt-1 mb-3">--}}
+{{--                    <a href="https://forms.gle/tq2z861EUVpAdKScA" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-red btn-family">Register</div></a>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
 
 {{--        <p class="text-center" style="font-size: 1.33em;">--}}
 {{--            <strong>Registration for this current schedule is closing on March 18</strong>--}}
